@@ -2,7 +2,7 @@
 Power BI dashboard showing 120 years of Olympic history.
 # 🏅 Olympic Games Power BI Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 This project presents an interactive **Power BI dashboard analyzing 120 years of Olympic Games history**.
 The dashboard explores athlete participation, medal distribution, sports dominance, and country performance.
@@ -11,7 +11,7 @@ The dataset used contains historical Olympic athlete and medal data.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 Dataset Source: Kaggle – *120 Years of Olympic History: Athletes and Results*
 https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
@@ -23,7 +23,7 @@ Main dataset used:
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 The dashboard includes the following visuals:
 
@@ -48,13 +48,13 @@ Interactive filters include:
 
 ---
 
-## 🖥 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](olympic_dashboard_preview.png)
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * Power BI Desktop
 * Data cleaning using Power Query
@@ -63,7 +63,7 @@ Interactive filters include:
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 * Certain countries dominate Olympic medal counts historically.
 * Some sports consistently produce the highest medal totals.
@@ -72,7 +72,7 @@ Interactive filters include:
 
 ---
 
-## 📥 How to Use
+## How to Use
 
 1. Download the **Olympic_Dashboard.pbix** file
 2. Open it in **Power BI Desktop**
