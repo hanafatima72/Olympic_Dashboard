@@ -1,6 +1,6 @@
 # Olympic_Dashboard
 Power BI dashboard showing 120 years of Olympic history.
-# 🏅 Olympic Games History Power BI Dashboard
+# Olympic Games History Power BI Dashboard
 
 ## Project Overview
 
