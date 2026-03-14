@@ -14,6 +14,7 @@ The dataset used contains historical Olympic athlete and medal data.
 ## 📂 Dataset
 
 Dataset Source: Kaggle – *120 Years of Olympic History: Athletes and Results*
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 Main dataset used:
 
@@ -39,6 +40,10 @@ The dashboard includes the following visuals:
 Interactive filters include:
 
 * Year slicer
+* Country Slicer
+* Medal Slicer
+* Sex Slicer
+* Sport Slicer
 * Cross-filtering between visuals
 
 ---
@@ -72,9 +77,3 @@ Interactive filters include:
 1. Download the **Olympic_Dashboard.pbix** file
 2. Open it in **Power BI Desktop**
 3. Interact with filters and visuals
-
----
-
-## 👩‍💻 Author
-
-Created as a **data visualization project using Power BI**.
