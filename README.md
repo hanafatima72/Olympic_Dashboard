@@ -42,7 +42,6 @@ Interactive filters include:
 * Year slicer
 * Country Slicer
 * Medal Slicer
-* Sex Slicer
 * Sport Slicer
 * Cross-filtering between visuals
 
